@@ -1,4 +1,4 @@
-export const header = () => {
+export const Header = () => {
     return (
         <div>
             <h1>Welcome to my Plogs</h1>

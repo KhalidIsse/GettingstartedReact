@@ -1,8 +1,8 @@
-const UserCard = () => {
+const UserCard = ({name, email}) => {
     return (
         <div>
-            <h2>Abdirashid Isse</h2>
-            <p>rashkaisse200@gmail.com</p>
+            <h2>{name}</h2>
+            <p>{email}</p>
         </div>
     )
 }
