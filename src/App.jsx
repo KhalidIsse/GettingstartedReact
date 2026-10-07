@@ -1,5 +1,4 @@
-import ToggleButton from './toggleButton.jsx'
-import ShoppingCart from './ShoppingCart';
+import GreetingTitle from './greetingTitle.jsx'
 // function App(){
 const App = () => {
 
@@ -7,8 +6,7 @@ const App = () => {
 
   return (
     <>
-      <ToggleButton />
-      <ShoppingCart />
+      < GreetingTitle />
     </>
   )
 
