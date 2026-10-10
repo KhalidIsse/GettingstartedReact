@@ -1,4 +1,5 @@
-import CountDown from './CountDown.jsx'
+// import CountDown from './CountDown.jsx'
+import GitHubUserSearch from './pokeman.jsx'
 // function App(){
 const App = () => {
 
@@ -6,7 +7,8 @@ const App = () => {
 
   return (
     <>
-    < CountDown />
+    {/* < CountDown /> */}
+    < GitHubUserSearch />
     </>
   )
 
