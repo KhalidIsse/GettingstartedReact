@@ -1,5 +1,4 @@
-// import GreetingTitle from './greetingTitle.jsx'
-import MouseTracker from './MouseTracker.jsx'
+import CountDown from './CountDown.jsx'
 // function App(){
 const App = () => {
 
@@ -7,7 +6,7 @@ const App = () => {
 
   return (
     <>
-      <MouseTracker />
+    < CountDown />
     </>
   )
 
